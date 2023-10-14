@@ -1040,6 +1040,7 @@ export default function Home() {
                 100+
               </b>{" "}
               partners with dreams to fulfill their entrepreneurial goals.
+              Empower 200+ web3 projects in Africa, Asia and the Americas. Help them become the best in the world.
             </p>
           </div>
           <div className="w-full mt-4 overflow-hidden rounded-lg sm:w-5/12 drop-shadow sm:mt-0">
