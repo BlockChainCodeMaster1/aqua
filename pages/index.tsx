@@ -1037,7 +1037,8 @@ export default function Home() {
             <p className=" font-[GT-America-Extended-Regular]  mt-4 sm:mt-8 ">
               Help{" "}
               <b className="text-2xl text-blue-400 ">
-                <NumberScroller to={100} timeout={1000} />+
+                {/* <NumberScroller to={100} timeout={1000} />+ */}
+                100+
               </b>{" "}
               partners with dreams to fulfill their entrepreneurial goals.
             </p>
