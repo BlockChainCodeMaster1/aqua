@@ -1020,7 +1020,7 @@ export default function Home() {
           <h1 className="leading-tight text-3xl sm:text-5xl font-[GT-America-Compressed-Medium]  drop-shadow uppercase">
             Free flow increasing engine
           </h1>
-          <p className="w-10/12 sm:w-8/12 pt-12 m-auto text-base sm:text-xl drop-shadow  font-[GT-America-Extended-Regular]">
+          <p className="w-10/12 sm:w-8/12 pt-12 m-auto text-xs sm:text-xl drop-shadow  font-[GT-America-Extended-Regular]">
             We helping Web3 projects build global competitive advantages. We are
             rooted in Africa, South America, and Southeast Asia, promoting the
             rapid growth of projects.
@@ -1034,7 +1034,7 @@ export default function Home() {
             <h1 className="font-[GT-America-Bold] text-4xl sm:text-6xl uppercase mt-2">
               Our Mission
             </h1>
-            <p className=" font-[GT-America-Extended-Regular]  mt-4 sm:mt-8 ">
+            <p className=" font-[GT-America-Extended-Regular]  mt-4 sm:mt-8  text-xs sm:text-xl">
               Help{" "}
               <b className="text-2xl text-blue-400 ">
                 {/* <NumberScroller to={100} timeout={1000} />+ */}
@@ -1173,7 +1173,7 @@ export default function Home() {
             <h1 className="font-[GT-America-Bold] text-4xl sm:text-6xl uppercase mt-4">
               Our Vision
             </h1>
-            <p className=" font-[GT-America-Extended-Regular] mt-4 sm:mt-8">
+            <p className=" font-[GT-America-Extended-Regular] mt-4 sm:mt-8 text-xs sm:text-xl">
               Gathering global top talents to make Web3 an indispensable
               productive force in human social development.
             </p>
@@ -1246,7 +1246,7 @@ export default function Home() {
             <h1 className=" font-[GT-America-Bold]  text-4xl sm:text-6xl text-white drop-shadow-md uppercase">
               Project Case
             </h1>
-            <h2 className=" text-lg text-white font-[GT-America-Extended-Regular] mt-6">
+            <h2 className=" text-xs sm:text-xl text-white font-[GT-America-Extended-Regular] mt-6">
               We have experienced three crypto cycles and have invested in and
               incubated 100+ projects.
             </h2>
