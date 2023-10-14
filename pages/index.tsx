@@ -1213,8 +1213,7 @@ export default function Home() {
               OUR TEAM
             </h1>
             <h2 className=" text-lg text-white font-[GT-America-Extended-Regular] mt-6">
-              We have experienced three crypto cycles and have invested in and
-              incubated 100+ projects.
+            We are a web3 accelerator. We have experienced three crypto cycles and have invested in and incubated 100+ projects. We have more experience in coaching tech builders and supporting mainstream chain grants. We also have close relationships with top venture capital firms in Asia and North America. 
             </h2>
           </div>
           <ul className="flex flex-col w-8/12 gap-2  text-white  ">
