@@ -279,10 +279,9 @@ export default function Home() {
       title: "Venture Partner", 
       linken:"https://www.linkedin.com/in/angelina-zhang",
       background: [
-        '· Napier University of Edinburgh, Bachelor\'s degree in Accounting',
-        '· Senior Administrator at Bank of New York Mellon Accounting Associate for ASO funding at BlackRock',
-        '· Tax Administrator at HSBC Securities Services',
-        '· Partner of unparalleled fund in the world.'
+        '· Graduated from Edinburgh Napier University - BA in Accounting',
+        '· Used to work with HSBC, BNYM, BlackRock, etc. top-brand banks, and AUM in the UK. ',
+        '· Partner of the unparalleled fund in the world.',
       ],
     }
   ]);
