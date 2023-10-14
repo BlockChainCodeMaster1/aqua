@@ -245,7 +245,7 @@ export default function Home() {
       title: "Founding Partner", 
       linken: "https://www.linkedin.com/in/lin-yang/",
       background: [
-        '· Peking University, MBA, National Development Research Institute',
+        '· Perking university, KU LEUVEN University, MBA',
         '· 15 years of experience in well-known financial investment industry, with multiple IPOs from well-known technology companies',
         '· Established Aqua Venture, web3 portfolio at SF in 2018'
       ],
