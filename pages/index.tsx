@@ -242,7 +242,7 @@ export default function Home() {
     {
       avatar: "/lin.jpg",
       name: "Lin",
-      title: "Founder", 
+      title: "Founding Partner", 
       linken: "https://www.linkedin.com/in/lin-yang/",
       background: [
         '· Peking University, MBA, National Development Research Institute',
@@ -253,7 +253,7 @@ export default function Home() {
     {
       avatar: "/blue.jpg",
       name: "Blue",
-      title: "Founder",
+      title: "Founding Partner",
       linken: "https://www.linkedin.com/in/blue-zhu", 
       background: [
         '· Graduated from the School of Management, Fudan University, Grade 06',
@@ -264,7 +264,7 @@ export default function Home() {
     {
       avatar: "/aemoe.jpg",
       name: "Aemoe",
-      title: "Founder", 
+      title: "Founding Partner", 
       linken:"https://www.linkedin.com/in/bo-lian",
       background: [
         '· San José State University ，CS Master',
@@ -276,7 +276,7 @@ export default function Home() {
     {
       avatar: "/anglina.jpg",
       name: "Angelina",
-      title: "Advisor", 
+      title: "Venture Partner", 
       linken:"https://www.linkedin.com/in/angelina-zhang",
       background: [
         '· Napier University of Edinburgh, Bachelor\'s degree in Accounting',
