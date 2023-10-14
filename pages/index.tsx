@@ -245,9 +245,9 @@ export default function Home() {
       title: "Founding Partner", 
       linken: "https://www.linkedin.com/in/lin-yang/",
       background: [
-        '· Perking university, KU LEUVEN University, MBA',
-        '· 15 years of experience in well-known financial investment industry, with multiple IPOs from well-known technology companies',
-        '· Established Aqua Venture, web3 portfolio at SF in 2018'
+        '· Perking university, KU LEUVEN University, MBA.',
+        '· 15 years of experience in well-known financial investment industry, with multiple IPOs from well-known technology companies.',
+        '· Established Aqua Venture at San Francisco from 2018, Web3 focus.'
       ],
     },
     {
@@ -256,9 +256,9 @@ export default function Home() {
       title: "Founding Partner",
       linken: "https://www.linkedin.com/in/blue-zhu", 
       background: [
-        '· Graduated from the School of Management, Fudan University, Grade 06',
-        '· 10 years of investment industry experience, early blockchain participants and evangelists, participated in multiple blockchain project investments from 16 to 18 years',
-        '· Established in 2019, K24 Ventures focuses on investment incubation in the Web3 industry.'
+        '· Graduated from the School of Management, Fudan University.',
+        '· 10 years of investment experience, early blockchain participants and influencer.',
+        '· Established K24 ventures from 2018, invested more than 50 well-known projects.'
       ],
     },
     {
@@ -267,8 +267,8 @@ export default function Home() {
       title: "Founding Partner", 
       linken:"https://www.linkedin.com/in/bo-lian",
       background: [
-        '· San José State University ，CS Master',
-        '· Years of well-known enterprise front-end architect and blockchain architect',
+        '· San José State University, CS Master.',
+        '· Years of well-known enterprise front-end architect and blockchain architect.',
         '· Google Plus members.',
         '· Partner of unparalleled fund in the world.'
       ],
@@ -1206,21 +1206,21 @@ export default function Home() {
           </ul>
         </div>
         <div
-          className="pb-10 mt-0 overflow-hidden text-center sm:pb-20 flex flex-row w-10/12 mx-auto sm:mt-20 gap-10"
+          className="pb-10 mt-0 overflow-hidden text-center sm:pb-20 flex sm:flex-row flex-col w-10/12 mx-auto sm:mt-20 gap-10"
         >
-          <div className="w-4/12 ">
+          <div className="sm:w-4/12 w-full">
             <h1 className=" font-[GT-America-Bold]  text-4xl sm:text-6xl text-white drop-shadow-md uppercase">
               OUR TEAM
             </h1>
-            <h2 className=" text-lg text-white font-[GT-America-Extended-Regular] mt-6">
+            <h2 className=" text-xs sm:text-lg text-white font-[GT-America-Extended-Regular] mt-6">
             We are a web3 accelerator. We have experienced three crypto cycles and have invested in and incubated 100+ projects. We have more experience in coaching tech builders and supporting mainstream chain grants. We also have close relationships with top venture capital firms in Asia and North America. 
             </h2>
           </div>
-          <ul className="flex flex-col w-8/12 gap-2  text-white  ">
+          <ul className="flex flex-col w-full sm:w-8/12 gap-2  text-white  ">
             {team.map((el, index) => (
               <li
                 key={index}
-                className="flex flex-row w-full px-8 py-2 text-left gap-4"
+                className="flex flex-col sm:flex-row w-full px-0 sm:px-8 py-2 text-left gap-4"
               >
                 <img src={el.avatar} className="w-32 h-32 rounded-md" alt="icon" />
                 <div>
