@@ -243,7 +243,7 @@ export default function Home() {
       avatar: "/lin.jpg",
       name: "Lin",
       title: "Founding Partner", 
-      linken: "https://www.linkedin.com/in/lin-yang/",
+      linken: "https://www.linkedin.com/in/lin-yang-95bb84294",
       background: [
         '· Perking university, KU LEUVEN University, MBA.',
         '· 15 years of experience in well-known financial investment industry, with multiple IPOs from well-known technology companies.',
